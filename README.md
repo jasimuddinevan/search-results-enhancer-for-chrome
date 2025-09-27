@@ -132,12 +132,8 @@ This extension was developed by:
 
 **Jasim Uddin**
 
-*   **Facebook**: [https://www.facebook.com/jasimuddinevan](https://www.facebook.com/jasimuddinevan)
-*   **GitHub**: [https://github.com/jasimuddinevan](https://github.com/jasimuddinevan)
-*   **PayPal**: [https://paypal.me/jasimtania](https://paypal.me/jasimtania)
-*   **Website**: [http://www.juevan.com/](http://www.juevan.com/)
-*   **LinkedIn**: [https://www.linkedin.com/in/jasimuddinevan](https://www.linkedin.com/in/jasimuddinevan)
-*   **Twitter**: [https://twitter.com/jasimuddinevan](https://twitter.com/jasimuddinevan)
-*   **WhatsApp**: [https://wa.me/8801609899713](https://wa.me/8801609899713)
-*   **Telegram**: [https://t.me/jasimevan](https://t.me/jasimevan)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jasimuddinevan)
+[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/jasimtania)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/jasimevan)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/jasimuddinevan)
 
